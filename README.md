@@ -7,7 +7,7 @@
 I am a Penn State Alumni that received a Bachelor's of Computer Science in December 2021. I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently my most recent and best languages are Java and Go.
 
 - 🌱 Aiming to receives a Master's in Software Engineering or Artificial Intelligence
-- 📊 Employed at [EagleView](https://www.eagleview.com/)
+- 📊 Software Engineer at [EagleView](https://www.eagleview.com/)
 - 💻 Currently an active Team Lead for Minecraft Modding and Scripting (Java)
 - 👾 Fun fact: I'm the Kool Aid Man - K.A.M
 
@@ -33,7 +33,7 @@ I am a Penn State Alumni that received a Bachelor's of Computer Science in Decem
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
