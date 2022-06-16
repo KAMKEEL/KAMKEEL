@@ -1,11 +1,21 @@
-<img src="images/MarioCoding.gif" width="100%"/>
 
-# Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=kamkeel&style=flat-square&color=red">
-
+# Hey there, I'm Kam! <img align="right" src="https://komarev.com/ghpvc/?username=kamkeel&style=flat-square&color=red">
 
 ## About me
+<a href="https://github.com/KAMKEEL/"><img src="resources/coffee.png" align="right" height="200" /></a>
 
-## Technology
+I am a Penn State Alumni that received a Bachelor's of Computer Science in December 2021. I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently my most recent and best languages are Java and Go.
+
+- 🌱 Aiming to receives a Master's in Software Engineering or Artificial Intelligence
+- 📊 Employed at [EagleView](https://www.eagleview.com/)
+- 💻 Currently an active Team Lead for Minecraft Modding and Scripting (Java)
+- 👾 Fun fact: I'm the Kool Aid Man - K.A.M
+
+---
+<a href="https://github.com/KAMKEEL/"><img src="resources/hired.png" align="right" height="200" /></a>
+
+### Technology
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -36,7 +46,11 @@
 
 ---
 
-## My Statistics
+<img src="resources/MarioCoding.gif" width="100%"/>
+
+---
+
+## Statistics
 
 <br/>
 <p align="left">
@@ -48,3 +62,5 @@
 <br>
 
 [![KAMKEEL's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamkeel&custom_title=Kamron%20Vaswani's%20Contribution%20Graph&color=EA771C&bg_color=0D1117&hide_border=true&line=EF4354&point=c58545)](https://github.com/KAMKEEL/)
+
+---
