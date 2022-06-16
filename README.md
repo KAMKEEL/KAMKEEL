@@ -4,7 +4,7 @@
 ## About me
 <a href="https://github.com/KAMKEEL/"><img src="resources/coffee.png" align="right" height="200" /></a>
 
-I am a Penn State Alumni that received a Bachelor's of Computer Science in December 2021. I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently my most recent and best languages are Java and Go.
+I am a Penn State Alumni that received a Bachelor's Degree inn Computer Science [December 2021]. I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently my most recent and best languages are Java and Go.
 
 - 🌱 Aiming to receives a Master's in Software Engineering or Artificial Intelligence
 - 📊 Software Engineer at [EagleView](https://www.eagleview.com/)
