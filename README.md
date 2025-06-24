@@ -6,7 +6,7 @@
 
 I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently, my most recent and best languages are Java and Go.
 
-- 🌱 Studying to receive a Masters in Computer Science with a focus in AI
+- 🌱 Masters in Computer Science with a focus in AI
 - 📊 Software Engineer
 - 💻 Currently, an active Team Lead for Minecraft Modding and Scripting (Java)
 - 👾 Fun fact: I'm the Kool Aid Man - K.A.M
