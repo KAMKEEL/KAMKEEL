@@ -2,17 +2,13 @@
 # Hey there, I'm Kam! <img align="right" src="https://komarev.com/ghpvc/?username=kamkeel&style=flat-square&color=red">
 
 ## About me
-<a href="https://github.com/KAMKEEL/"><img src="resources/coffee.png" align="right" height="200" /></a>
 
-I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently, my most recent and best languages are Java and Go.
-
-- 🌱 Masters in Computer Science with a focus in AI
+I am passionate about programming and tinkering with games and other forms of software I use during my day-to-day. Currently, I code mainly in Java.
 - 📊 Software Engineer
 - 💻 Currently, an active Team Lead for Minecraft Modding and Scripting (Java)
 - 👾 Fun fact: I'm the Kool Aid Man - K.A.M
 
 ---
-<a href="https://github.com/KAMKEEL/"><img src="resources/hired.png" align="right" height="200" /></a>
 
 ### Technology
 
@@ -60,7 +56,5 @@ I am passionate about programming and tinkering with games and other forms of so
   </a>
 </p>
 <br>
-
-[![KAMKEEL's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamkeel&custom_title=Kamron%20Vaswani's%20Contribution%20Graph&color=EA771C&bg_color=0D1117&hide_border=true&line=EF4354&point=c58545)](https://github.com/KAMKEEL/)
 
 ---
